@@ -57,6 +57,7 @@ for participant in participants:
         print("Files in directory:", os.listdir(participant_dir))
 
         for problem in problems.get(current_week, []):
+            print(f"Checking problem: {problem}")
             if any(
                 re.match(f"(BOJ)?{problem}\\.java$", file)
                 for file in os.listdir(participant_dir)
