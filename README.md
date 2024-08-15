@@ -3,7 +3,7 @@
 ## 🙋🏻🙋🏻‍♀️ 스터디 구성원
 | 구현진 | 김석희 | 김선주 | 김성민 | 류재문                 |
 |-|--|--|--|---------------------|
-|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|
+|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/77e00286-917b-4793-983b-410b877a957a)|
 
 ## 📖 주차별 문제
 | 주차  | 문제1 | 문제2 | 문제3 |
