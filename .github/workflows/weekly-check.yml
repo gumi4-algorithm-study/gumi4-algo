@@ -21,4 +21,4 @@ jobs:
       - name: Run weekly check
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/weekly_check.py
+        run: python .github/scripts/weekly-check.py
