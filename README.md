@@ -1,9 +1,9 @@
 # 📚 구미 4반 알고리즘 스터디
 
 ## 🙋🏻🙋🏻‍♀️ 스터디 구성원
-| 이름 | 구현진 | 김석희 | 김선주 | 김성민 | 류재문 |
-|-|--|--|--|--|-----|
-| 이메일 |temp| temp | temp | temp | temp |
+| 구현진 | 김석희 | 김선주 | 김성민 | 류재문                 |
+|-|--|--|--|---------------------|
+|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|![https://github.com/jaemoon99](https://github.com/user-attachments/assets/56159ac7-368d-4e6a-9765-eae8f86dabd3)|
 
 ## 📖 주차별 문제
 | 주차  | 문제1 | 문제2 | 문제3 |
