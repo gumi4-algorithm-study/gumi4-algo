@@ -15,6 +15,7 @@ repo = g.get_repo(repo_name)
 
 def get_problems_from_readme():
     readme_content = repo.get_contents("README.md").decoded_content.decode("utf-8")
+    print("readme_content", readme_content)
     problems = {}
     current_week = None
     for line in readme_content.split("\n"):
