@@ -13,21 +13,26 @@ g = github.Github(token)
 repo = g.get_repo(repo_name)
 
 
+# | 주차  | 문제1 | 문제2 | 문제3 |
+# |-----|--|--|-----|
+# | 1주차 | BOJ1111 | BOJ1234 | BOJ68452 |
+
+
 def get_problems_from_readme():
     readme_content = repo.get_contents("README.md").decoded_content.decode("utf-8")
     problems = {}
     current_week = None
+
     for line in readme_content.split("\n"):
         week_match = re.match(r"\|\s*(\d+)주차\s*\|", line)
-        print("week_match", week_match)
         if week_match:
             current_week = int(week_match.group(1))
-            print("current_week", current_week)
             problems[current_week] = []
-        elif current_week is not None and "|" in line:
+
+        if current_week is not None and "|" in line:
             problem_numbers = re.findall(r"BOJ(\d+)", line)
-            print("problem_numbers", problem_numbers)
             problems[current_week].extend(problem_numbers)
+
     print("problems", problems)
     return problems
 
