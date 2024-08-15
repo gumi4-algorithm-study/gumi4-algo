@@ -53,6 +53,9 @@ for participant in participants:
     participant_dir = os.path.join(participant, f"{current_week}주차")
 
     if os.path.exists(participant_dir):
+        print(f"Checking directory: {participant_dir}")
+        print("Files in directory:", os.listdir(participant_dir))
+
         for problem in problems.get(current_week, []):
             if any(
                 re.match(f"(BOJ)?{problem}\\.java$", file)
