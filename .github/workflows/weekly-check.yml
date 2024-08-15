@@ -2,7 +2,7 @@ name: Weekly Problem Check
 
 on:
   schedule:
-    - cron: "23 14 * * 4" # 매주 목요일 오후 11시 22분에 실행 (UTC 기준 14:22, 한국 시간으로 오후 11시 22분)
+    - cron: "40 14 * * 4" # 매주 목요일 오후 11시 22분에 실행 (UTC 기준 14:22, 한국 시간으로 오후 11시 22분)
   workflow_dispatch: # 수동 실행을 위한 옵션
 
 jobs:
