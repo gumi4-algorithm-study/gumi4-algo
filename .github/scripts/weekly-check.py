@@ -38,6 +38,7 @@ def get_current_week():
 
 
 problems = get_problems_from_readme()
+print("problems", problems)
 current_week = get_current_week()
 
 # 참가자 디렉토리 목록
