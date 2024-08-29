@@ -6,11 +6,11 @@ public class BOJ_2564 {
 
         Scanner sc = new Scanner(System.in);
 
-        // 블록의 가로 길이(w)와 세로 길이(h) 입력
+        // 블록의 가로와 세로 입력
         int w = sc.nextInt();
         int h = sc.nextInt();
 
-        // 상점의 수(n) 입력
+        // 상점의 수 입력
         int n = sc.nextInt();
         int[] stores = new int[n];
 
