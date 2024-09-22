@@ -11,6 +11,7 @@
 | 2주차 | [BOJ2458](https://www.acmicpc.net/problem/2458) | [BOJ13335](https://www.acmicpc.net/problem/13335) |
 | 3주차 | [BOJ14501](https://www.acmicpc.net/problem/14501) | [BOJ2493](https://www.acmicpc.net/problem/2493) |
 | 4주차 | [BOJ14500](https://www.acmicpc.net/problem/14500) | [BOJ1043](https://www.acmicpc.net/problem/1043) |
+| 5주차 | [BOJ1759](https://www.acmicpc.net/problem/1759) | [BOJ2589](https://www.acmicpc.net/problem/2589) |
 
 ## 📍 커밋 메시지 규칙
 | 타입  | 내용           |
