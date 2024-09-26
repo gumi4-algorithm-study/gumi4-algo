@@ -5,8 +5,8 @@ import java.util.StringTokenizer;
 
 //BOJ_14500 테트로미노
 public class BOJ_14500 {
-    static int[] dx = {0, 1, 0, -1};
-    static int[] dy = {1, 0, -1, 0};
+    static int[] dx = { 0, 1, 0, -1 };
+    static int[] dy = { 1, 0, -1, 0 };
     static int N, M;
     static int[][] map;
     static int max;
@@ -41,45 +41,37 @@ public class BOJ_14500 {
 
     public static void dfs(int x, int y, int cnt, int sum) {
         if (cnt == 4) { // 모양 하나 완성
-//            for (int r = 0; r < N; r++) {
-//                for (int c = 0; c < M; c++) {
-//                    System.out.print(visited[r][c] + " ");
-//                }
-//                System.out.println();
-//            }
-//            System.out.println();
             max = Math.max(sum, max);
-//            System.out.println(max);
             return;
         }
 
-        if (cnt == 2) { // ㅜ,ㅗ,ㅓ,ㅏ 모양 확인
-            // ㅜ
-            if (x + 1 < N && y + 1 < M && y - 1 >= 0) {
-                max = Math.max(max, map[x][y] + map[x + 1][y] + map[x][y + 1] + map[x][y - 1]);
-            }
+        // ㅜ,ㅗ,ㅓ,ㅏ 모양 확인
+        // ㅜ
+        if (x + 1 < N && y + 1 < M && y - 1 >= 0) {
+            max = Math.max(max, map[x][y] + map[x + 1][y] + map[x][y + 1] + map[x][y - 1]);
+        }
 
-            // ㅗ
-            if (x - 1 >= 0 && y + 1 < M && y - 1 >= 0) {
-                max = Math.max(max, map[x][y] + map[x - 1][y] + map[x][y + 1] + map[x][y - 1]);
-            }
+        // ㅗ
+        if (x - 1 >= 0 && y + 1 < M && y - 1 >= 0) {
+            max = Math.max(max, map[x][y] + map[x - 1][y] + map[x][y + 1] + map[x][y - 1]);
+        }
 
-            // ㅓ
-            if (x + 1 < N && x - 1 >= 0 && y + 1 < M) {
-                max = Math.max(max, map[x][y] + map[x + 1][y] + map[x - 1][y] + map[x][y + 1]);
-            }
+        // ㅓ
+        if (x + 1 < N && x - 1 >= 0 && y + 1 < M) {
+            max = Math.max(max, map[x][y] + map[x + 1][y] + map[x - 1][y] + map[x][y + 1]);
+        }
 
-            // ㅏ
-            if (x + 1 < N && x - 1 >= 0 && y - 1 >= 0) {
-                max = Math.max(max, map[x][y] + map[x + 1][y] + map[x - 1][y] + map[x][y - 1]);
-            }
+        // ㅏ
+        if (x + 1 < N && x - 1 >= 0 && y - 1 >= 0) {
+            max = Math.max(max, map[x][y] + map[x + 1][y] + map[x - 1][y] + map[x][y - 1]);
         }
 
         for (int i = 0; i < 4; i++) {
             int nx = x + dx[i];
             int ny = y + dy[i];
 
-            if (nx < 0 || ny < 0 || nx > N - 1 || ny > M - 1 || visited[nx][ny]) continue;
+            if (nx < 0 || ny < 0 || nx > N - 1 || ny > M - 1 || visited[nx][ny])
+                continue;
 
             visited[nx][ny] = true;
             dfs(nx, ny, cnt + 1, sum + map[nx][ny]);
