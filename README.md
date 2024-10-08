@@ -7,13 +7,13 @@
 ## 📖 주차별 문제
 | 주차  | 문제1 | 문제2 | TEST |
 |-----|--|--|-----|
-| 1주차 | [BOJ2564](https://www.acmicpc.net/problem/2564) | [BOJ1520](https://www.acmicpc.net/problem/1520) |
-| 2주차 | [BOJ2458](https://www.acmicpc.net/problem/2458) | [BOJ13335](https://www.acmicpc.net/problem/13335) |
-| 3주차 | [BOJ14501](https://www.acmicpc.net/problem/14501) | [BOJ2493](https://www.acmicpc.net/problem/2493) |
-| 4주차 | [BOJ14500](https://www.acmicpc.net/problem/14500) | [BOJ1043](https://www.acmicpc.net/problem/1043) |
-| 5주차 | [BOJ1759](https://www.acmicpc.net/problem/1759) | [BOJ2589](https://www.acmicpc.net/problem/2589) | [BOJ1987](https://www.acmicpc.net/problem/1987) |
-| 6주차 | [BOJ14503](https://www.acmicpc.net/problem/14503) | [BOJ2565](https://www.acmicpc.net/problem/2565) |
-| 7주차 | [BOJ14499](https://www.acmicpc.net/problem/14499) | [BOJ1504](https://www.acmicpc.net/problem/1504) |
+| 1주차 | [BOJ2564](https://www.acmicpc.net/problem/2564){:target="_blank"} | [BOJ1520](https://www.acmicpc.net/problem/1520){:target="_blank"} |
+| 2주차 | [BOJ2458](https://www.acmicpc.net/problem/2458){:target="_blank"} | [BOJ13335](https://www.acmicpc.net/problem/13335){:target="_blank"} |
+| 3주차 | [BOJ14501](https://www.acmicpc.net/problem/14501){:target="_blank"} | [BOJ2493](https://www.acmicpc.net/problem/2493){:target="_blank"} |
+| 4주차 | [BOJ14500](https://www.acmicpc.net/problem/14500){:target="_blank"} | [BOJ1043](https://www.acmicpc.net/problem/1043){:target="_blank"} |
+| 5주차 | [BOJ1759](https://www.acmicpc.net/problem/1759){:target="_blank"} | [BOJ2589](https://www.acmicpc.net/problem/2589){:target="_blank"} | [BOJ1987](https://www.acmicpc.net/problem/1987){:target="_blank"} |
+| 6주차 | [BOJ14503](https://www.acmicpc.net/problem/14503){:target="_blank"} | [BOJ2565](https://www.acmicpc.net/problem/2565){:target="_blank"} |
+| 7주차 | [BOJ14499](https://www.acmicpc.net/problem/14499){:target="_blank"} | [BOJ1504](https://www.acmicpc.net/problem/1504){:target="_blank"} |
 
 ## 📍 커밋 메시지 규칙
 | 타입  | 내용           |
