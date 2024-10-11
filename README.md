@@ -14,6 +14,7 @@
 | 5주차 | <a href="https://www.acmicpc.net/problem/1759" target="_blank">BOJ1759</a> | <a href="https://www.acmicpc.net/problem/2589" target="_blank">BOJ2589</a> | <a href="https://www.acmicpc.net/problem/1987" target="_blank">BOJ1987</a> |
 | 6주차 | <a href="https://www.acmicpc.net/problem/14503" target="_blank">BOJ14503</a> | <a href="https://www.acmicpc.net/problem/2565" target="_blank">BOJ2565</a> |
 | 7주차 | <a href="https://www.acmicpc.net/problem/14499" target="_blank">BOJ14499</a> | <a href="https://www.acmicpc.net/problem/1504" target="_blank">BOJ1504</a> |
+| 8주차 | <a href="https://www.acmicpc.net/problem/14940" target="_blank">BOJ14940</a> | <a href="https://www.acmicpc.net/problem/16928" target="_blank">BOJ16928</a> |
 
 
 
