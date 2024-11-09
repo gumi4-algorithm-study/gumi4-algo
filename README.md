@@ -17,7 +17,7 @@
 | 8주차  | <a href="https://www.acmicpc.net/problem/14940" target="_blank">BOJ14940</a> | <a href="https://www.acmicpc.net/problem/16928" target="_blank">BOJ16928</a>                          |
 | 9주차  | <a href="https://www.acmicpc.net/problem/1283" target="_blank">BOJ1283</a>   | <a href="https://www.acmicpc.net/problem/2668" target="_blank">BOJ2668</a>                            |
 | 10주차 | <a href="https://www.acmicpc.net/problem/12851" target="_blank">BOJ12851</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667" target="_blank">118667</a> |
-
+| 11주차 | <a href="https://www.acmicpc.net/problem/11779" target="_blank">BOJ11779</a> | <a href="https://www.acmicpc.net/problem/17396" target="_blank">BOJ17396</a> |
 
 
 
